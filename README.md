@@ -8,5 +8,7 @@
 + ❤ Flex
 + 💖 Grid
 + 💖 반응형 웹페이지 🚗
-+ Github사용
++ Github 페이지로 배포 사용
+
+[링크](https://wcreatedo.github.io/CAFE25/)
 

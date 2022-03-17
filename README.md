@@ -12,3 +12,6 @@
 
 [링크](https://wcreatedo.github.io/CAFE25/)
 
+#2022년 3월17일 오전
++ favicon추가
+
